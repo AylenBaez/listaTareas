@@ -1,0 +1,35 @@
+html{
+    background-color: indianred;
+}
+body{
+    padding-top: 5%;
+}
+.basura{
+width: 15px;
+height: 15px;
+padding-left: 10%;
+padding-right:40%;
+padding-top: 40%;
+
+
+}
+.LISTA{
+    background-color: ivory;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+}   
+.arriba{
+    background-color: ivory;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.conjlista{
+    max-width: 80%;
+    width: 800px;
+    margin: 0 auto;
+}
+.cabeza{
+    text-align: center;
+}
